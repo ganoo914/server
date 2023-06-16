@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: rgb(55, 155, 146);
+      font-family: "League Gothic", Impact, sans-serif;
+      line-height: 0.9em;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      text-shadow: 0px 0px 6px ;
+      font-size: 210px;
+  }
+
+
+
+.nav {
+    height: 100px;
+    border-top: 5px solid rgb(51, 61, 153);
+    display: flex;
+    align-items: center;
+}
+
+.bu {
+    border-radius: 20px;
+    line-height: 2.5;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 1px 1px 2px;
+    padding: 0 100px;
+}
