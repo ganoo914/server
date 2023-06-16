@@ -2,8 +2,16 @@
   <head>
     <meta charset="utf-8">
     <title>정베</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
-    <h1>정베 커뮤니티</h1>
+    <h1>정베 저장소</h1> 
+    <script src="main.js"></script>
+
+    <div class="nav"></div>
+    
+
+    <button href=".\board.html" name="bu">ㅇㅇㅇ</button>
+
   </body>
 </html>
